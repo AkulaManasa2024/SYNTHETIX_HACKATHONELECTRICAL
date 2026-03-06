@@ -116,3 +116,5 @@ This type of analog signal extraction system can be used in:
 The project successfully demonstrates an **analog filtering approach for extracting a specific frequency component from a noisy signal**. Through multi-stage filtering and signal conditioning, the system accurately isolates a **6 kHz sine wave with a 0.4 Vpp output**, meeting the design objectives.
 
 The design was verified through simulation and documented using professional schematic tools.
+
+**Note: All the circuit digram and waveforms are uploaded in documentation file**
